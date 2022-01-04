@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head><title>Among us Gaming</title></head>
+<body><ta
+<img src="https://1000logos.net/wp-content/uploads/2021/09/Among-Us-Logo.png" width="1000" height="150">
+<h1><center>Have you heard of the hit classic game among us?</center></h1>
+
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="https://i.kym-cdn.com/photos/images/facebook/002/151/222/4d9.png">Timeline</a></td>
+<td><a href="https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en_US&gl=US">AmongUs</a></td>
+<td><a href="https://i.kym-cdn.com/photos/images/newsfeed/002/111/408/08e.gif">Sus</a></td>
+<td><a href="https://manofmany.com/wp-content/uploads/2020/10/Best-Among-Us-Memes-6.jpg">Imposter</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Among_Us">Amonj us wiki</a></td>
+</tr>
+</table>
+</nav>
+<hr>
+<h2>Play online or over local WiFi with 4-15 players as you attempt to prep your spaceship for departure, but beware as  one, two or even three impostor will bent on killing everyone!
+
+Crewmates can win by completing all tasks or discovering and voting the impostor off the ship.
+
+The Impostor can use sabotage to cause chaos, making for easier kills and better alibis.</h2>
+<p><b>The Impostor(s) win(s) one of two ways: either by killing most of the crew (to the point that they're equal in number) or by sabotaging a critical system on the map (provided the Crewmates don't resolve it in time). The Crewmates likewise can win one of two ways: either by completing all tasks or by identifying and ejecting all Impostors. Games can also end by players quitting the match if doing so fulfills any win condition (if a Crewmate quits the game, their tasks are automatically considered completed).
+
+At the start of the game, Crewmates are assigned "tasks" to complete around the map (in the form of minigames, minpuzzles, and simple toggles), mostly consisting of maintenance work on vital systems such as fixing wires and downloading data. Impostors are given a fake list of suggested tasks to blend in with Crewmates. However, they cannot legitimately perform tasks and can only pretend to be doing any of the tasks on the ship. Impostors, however, can sabotage vital systems (such as The Skeld's oxygen supply), close the doors to rooms, quickly and covertly travel through the ventilation system (commonly referred to as "venting"), and kill Crewmates when standing near them. To help the Crewmates identify Impostors, there are various surveillance systems on each map, such as security cameras and an admin system on The Skeld, a doorlog system with sensors in MIRA HQ, and a vitals indicator in Polus. Crewmates may also confirm their identity through "visual tasks" (tasks that have animations which play for other players), which cannot be faked by Impostors.
+
+If a Crewmate is killed or any player is voted out and ejected, they become a ghost. Ghosts can pass through walls, spectate other players' activities, and see and chat with other ghosts. Living players have a limited cone of vision; ghosts do not. Moreover, ghosts cannot communicate with living players or be seen by them. Ghosts help their living teammates by completing their tasks (as a Crewmate) or performing various acts of sabotage (as an Impostor).
+
+Any living player may call a group meeting by reporting a dead body, or by pressing the Emergency Meeting button on the map at any time (except during major sabotages, when Emergency Meetings cannot be called, but dead bodies can still be reported). During a meeting, players discuss who they believe is an Impostor based on the available evidence. Impostors can be identified beyond all reasonable doubt if they are seen venting or killing. A player may be suspected for many other reasons though. However, all the players form a sort of jury and must weigh the veracity or value of each other's statements and questions during the meeting. A plurality vote is held, and if a plurality is obtained, the player whom the most crewmates voted is ejected from the map and they become a ghost, unless the majority of the crewmates choose to skip vote or there is a tie vote. Players can communicate in a built-in text chat (with some predefined phrases for phone users), but only during meetings, and only if they are alive (though ghosts can speak with one another at any time). While the game does not have a built-in voice chat system, it is common for players to use external programs such as Discord, or to converse regularly if they are in close physical proximity to one another. In case players can hear each other's voices, the game reminds them to not speak except during meetings.</b>
+
+</body>
+<br>
+<center><img src="https://img.buzzfeed.com/store-an-image-prod-us-east-1/SJo0xNKnZ.png" width="250" height="150" alt="Amonj us" title="sus"></center>
+
+</br>
+</html>
